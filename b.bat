@@ -25,3 +25,4 @@ date/t >> 000.txt
 goto end
 
 :end
+echo on

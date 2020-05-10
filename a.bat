@@ -5,3 +5,4 @@ pushd KAT2 & cd > nazwa.txt & popd
 cd KAT2
 md "podkatalog jeden"
 pushd "podkatalog jeden" & cd > nazwa.txt & popd
+echo on
